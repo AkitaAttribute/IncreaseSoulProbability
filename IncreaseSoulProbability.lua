@@ -71,7 +71,7 @@ function G.splash_screen(self)
 	
     local result = originalSplashScreenRef(self)
 	
-	forceTag("tag_ethereal")
+	-- forceTag("tag_ethereal")
 	--forceTag("tag_charm")
 	-- forceTag("tag_meteor")
 	
